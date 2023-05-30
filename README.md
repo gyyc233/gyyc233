@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone 👋
+
+
+- 🔭 I’m currently working on SLAM
+- 🌱 I'm currently learning pid control with `tracking_pid`
+- 👯 I’m looking to collaborate on computer vision, object pose estimate,robotics, math and coding
+- 🤔 I’m looking for help with robotics, computer vision, 
+- 💬 Ask me about basketball, running, Chinese culture
+- 📫 How to reach me: 
+  - QQmail: 1056616678@qq.com
+  - gmail: gyyc1919@gmail.com
 
 <!--
 **gyyc233/gyyc233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

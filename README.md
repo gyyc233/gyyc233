@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working on SLAM
-- 🌱 I'm currently learning pid control with `tracking_pid`
+- 🌱 I'm currently learning VIO-SLAM
 - 👯 I’m looking to collaborate on computer vision, object pose estimate,robotics, math and coding
 - 🤔 I’m looking for help with robotics, computer vision, 
-- 💬 Ask me about basketball, running, Chinese culture
+- 💬 Ask me about basketball, jogging, Chinese culture
 - 📫 How to reach me: 
   - QQmail: 1056616678@qq.com
   - gmail: gyyc1919@gmail.com

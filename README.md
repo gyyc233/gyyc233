@@ -1,12 +1,12 @@
 ### Hi everyone 👋
 
 
-- 🔭 I’m currently working on SLAM
-- 🌱 I'm currently learning VIO-SLAM
-- 👯 I’m looking to collaborate on computer vision, object pose estimate,robotics, math and coding
-- 🤔 I’m looking for help with robotics, computer vision, 
-- 💬 Ask me about basketball, jogging, Chinese culture
-- 📫 How to reach me: 
+Hi 👋 This is the place where I opensource stuff and break things 🤣
+- 🔭 I’m currently working on Visual Localization and SLAM
+- 💬 Ask me about keypoint detection/3D pose estimation/image matching/depth estimation/SLAM/YOLOv8/Kalman Filter/Path Plan/Path Tracking  etc.
+- 👯 I’m looking to collaborate on computer vision, object pose estimate,robotics, self-driving
+-  😄Ask me about basketball, jogging, Chinese culture, TCG
+- 📫 How to reach me:
   - QQmail: 1056616678@qq.com
   - gmail: gyyc1919@gmail.com
 

@@ -1,14 +1,15 @@
-### Hi everyone 👋
+<div>
+  <img alt="Github stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=gyyc233&show_icons=true&count_private=true">
+  <img alt="Top langs" width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyyc233&langs_count=8&hide=html,tex,javascript,css,Jupyter%20Notebook,c&exclude_repo=gyyc233.github.io,LittleProgramSet">
+  <img alt="Skill list" width="60%" src="https://skillicons.dev/icons?&perline=8&i=cpp,py,cs,cmake,git,md,ubuntu,githubactions">
+</div>
 
+### Hi there 👋, it's gyyc233
 
-Hi 👋 This is the place where I opensource stuff and break things 🤣
-- 🔭 I’m currently working on Visual Localization and SLAM
-- 💬 Ask me about keypoint detection/3D pose estimation/image matching/depth estimation/SLAM/YOLOv8/Kalman Filter/Path Plan/Path Tracking  etc.
-- 👯 I’m looking to collaborate on computer vision, object pose estimate,robotics, self-driving
--  😄Ask me about basketball, jogging, Chinese culture, TCG
-- 📫 How to reach me:
-  - QQmail: 1056616678@qq.com
-  - gmail: gyyc1919@gmail.com
+- 🔭 I’m working on: SLAM & AR & robotics & object pose estimate
+- 🌱 I’m currently learning: VLA & computer vision
+- 📫 How to reach me: <1056616678@qq.com>
+- 🔗 Here is my blog: <https://gyyc233.github.io>
 
 <!--
 **gyyc233/gyyc233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +26,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyyc233)](https://github.com/gyyc233)
